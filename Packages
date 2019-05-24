@@ -1,28 +1,16 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.xandesign.Felicity
+Name: Felicity
+Version: 4.0.1
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Description: An Awesome SpringBoard Theme!
+Homepage: https://twitter.com/xerusdesign
+SileoDepiction: https://github.com/xerusdesign-repo/xerusdesign-Repo/blob/gh-pages/depictions/FelicitySileoDepiction.json
+Section: Themes
+Author: XerusDesign <unixdesignios@gmail.com>
+Maintainer: XerusDesign <unixdesignios@gmail.com>
+Filename: ./debs.com.xandesign.Felicity
+Depiction: https://github.com/xerusdesign-repo/xerusdesign-Repo/tree/gh-pages/depictions/com.xandesign.Felicity
+Size: 25228
+MD5sum: 34ca85858f7ef8221d7644ddb1ef2644
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
