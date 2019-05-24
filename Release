@@ -1,0 +1,8 @@
+Origin: xerusdesign Repo
+Label: xerusdesign Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: xerusdesign WIP/Beta Repo!
