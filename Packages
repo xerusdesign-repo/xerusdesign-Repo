@@ -1,18 +1,11 @@
 Package: com.xandesign.Felicity
 Name: Felicity
-Version: 4.0.1
+Version: 4.0.2
 Architecture: iphoneos-arm
 Description: An Awesome SpringBoard Theme!
 Homepage: https://twitter.com/xerusdesign
-SileoDepiction: https://github.com/xerusdesign-repo/xerusdesign-Repo/blob/gh-pages/depictions/sileodepictions/generate.json
+SileoDepiction: https://github.com/xerusdesign/repo/blob/master/depictions/sileodepictions/Felicity/sileo.json
 Section: Themes
 Author: XerusDesign <unixdesignios@gmail.com>
 Maintainer: XerusDesign <unixdesignios@gmail.com>
-Filename: ./debs.com.xandesign.Felicity
-Depiction: https://github.com/xerusdesign-repo/xerusdesign-Repo/blob/gh-pages/depictions/sileodepictions/generate.json
-Size: 25228
-MD5sum: 34ca85858f7ef8221d7644ddb1ef2644
-
-
-
-
+MD5sum: 623861ccd4e5c57bbe171aefa9408de7
